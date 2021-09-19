@@ -1,0 +1,16 @@
+table{
+    border: 8px solid rgb(238, 132, 132);
+    padding: 10px;
+    cellpadding: 10;
+    border-radius: 5px;
+}
+table th{
+    border: 1px solid;
+    padding: 10px;
+}
+table td{
+    border: 1px solid;
+    padding: 10px;
+}
+
+
